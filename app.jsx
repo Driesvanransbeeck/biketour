@@ -135,6 +135,9 @@ new L.GPX("GPX/6. Saarbrucken - Pirmasens.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/7. Pirmasens - Wilden.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/8. Wilden - Eisingen.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/9. Eisingen - Stuttgart.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/10. Stuttgart - Heidenheim.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/11. Heidenheim - Augsburg.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/12. Augsburg - Munich.gpx", gpx_options).addTo(map);
 
 // Icon we"re here
 
@@ -143,4 +146,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([48.7758, 9.1829], { icon: bikeIcon }).addTo(map);
+L.marker([48.1351, 11.5820], { icon: bikeIcon }).addTo(map);
