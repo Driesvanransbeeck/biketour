@@ -11,6 +11,9 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 var marker = L.marker([50.8503396, 4.351710300000036]).addTo(map);
 marker.bindPopup("<b>Starting point!</b><br>Departure on Sunday 3 February").openPopup();
 
+var marker = L.marker([48.1351, 11.5820]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/were-off-the-beginning-of-a-new-chapter-60fb434c6771" target="_blank"><b>We’re off! The beginning of a new chapter</b></a><br>17 February in Munich: First blog post').openPopup();
+
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
     Tehran = L.marker([35.6891975, 51.388973599999986]).bindPopup("This is Tehran!"),
@@ -138,6 +141,8 @@ new L.GPX("GPX/9. Eisingen - Stuttgart.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/10. Stuttgart - Heidenheim.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/11. Heidenheim - Augsburg.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/12. Augsburg - Munich.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/13. Munich - Gerzen.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/14. Gerzen - Passau.gpx", gpx_options).addTo(map);
 
 // Icon we"re here
 
@@ -146,4 +151,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([48.1351, 11.5820], { icon: bikeIcon }).addTo(map);
+L.marker([48.5667, 13.4319], { icon: bikeIcon }).addTo(map);
