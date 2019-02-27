@@ -143,6 +143,10 @@ new L.GPX("GPX/11. Heidenheim - Augsburg.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/12. Augsburg - Munich.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/13. Munich - Gerzen.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/14. Gerzen - Passau.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/15. Passau - Linz.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/16. Linz - Wetzelsdorf.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/17. Wetzelsdorf - Krems an der Donau.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/18. Krems an der Donau - Vienna.gpx", gpx_options).addTo(map);
 
 // Icon we"re here
 
@@ -151,4 +155,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([48.5667, 13.4319], { icon: bikeIcon }).addTo(map);
+L.marker([48.1205, 16.2692], { icon: bikeIcon }).addTo(map);
