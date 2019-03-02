@@ -147,6 +147,8 @@ new L.GPX("GPX/15. Passau - Linz.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/16. Linz - Wetzelsdorf.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/17. Wetzelsdorf - Krems an der Donau.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/18. Krems an der Donau - Vienna.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/19. Vienna - Bratislava.gpx", gpx_options).addTo(map);
+
 
 // Icon we"re here
 
@@ -155,4 +157,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([48.1205, 16.2692], { icon: bikeIcon }).addTo(map);
+L.marker([48.1486, 17.1077], { icon: bikeIcon }).addTo(map);
