@@ -14,6 +14,9 @@ marker.bindPopup("<b>Starting point!</b><br>Departure on Sunday 3 February").ope
 var marker = L.marker([48.1351, 11.5820]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/were-off-the-beginning-of-a-new-chapter-60fb434c6771" target="_blank"><b>We’re off! The beginning of a new chapter</b></a><br>17 February in Munich: First blog post').openPopup();
 
+var marker = L.marker([48.1486, 17.1077]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/bye-bye-to-western-europe-hello-to-the-east-e76549c9f94a?fbclid=IwAR0K2A50F23NcOvo1wyIlqQWmmsMSbB60Hisw0o-HbxS-Bjrnsyel2FLpnk" target="_blank"><b>Bye bye to Western Europe, hello to the East!</b></a><br>3 March in Bratislava: blog post with video').openPopup();
+
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
     Tehran = L.marker([35.6891975, 51.388973599999986]).bindPopup("This is Tehran!"),
@@ -148,6 +151,8 @@ new L.GPX("GPX/16. Linz - Wetzelsdorf.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/17. Wetzelsdorf - Krems an der Donau.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/18. Krems an der Donau - Vienna.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/19. Vienna - Bratislava.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/20. Bratislava - Gyor.gpx", gpx_options).addTo(map);
+
 
 
 // Icon we"re here
@@ -157,4 +162,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([48.1486, 17.1077], { icon: bikeIcon }).addTo(map);
+L.marker([47.6875, 17.6504], { icon: bikeIcon }).addTo(map);
