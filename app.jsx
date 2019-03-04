@@ -152,7 +152,7 @@ new L.GPX("GPX/17. Wetzelsdorf - Krems an der Donau.gpx", gpx_options).addTo(map
 new L.GPX("GPX/18. Krems an der Donau - Vienna.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/19. Vienna - Bratislava.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/20. Bratislava - Gyor.gpx", gpx_options).addTo(map);
-
+new L.GPX("GPX/21. Gyor - Zirc.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -162,4 +162,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([47.6875, 17.6504], { icon: bikeIcon }).addTo(map);
+L.marker([47.2621, 17.8708], { icon: bikeIcon }).addTo(map);
