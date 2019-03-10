@@ -154,7 +154,10 @@ new L.GPX("GPX/19. Vienna - Bratislava.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/20. Bratislava - Gyor.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/21. Gyor - Zirc.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/22. Zirc - Balatonfured.gpx", gpx_options).addTo(map);
-
+new L.GPX("GPX/23. Balatonfured - Nagykanizsa.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/24. Nagykanizsa - Ferdinandovac.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/25. Ferdinandovac - Pecs.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/26. Pecs - Mohacs.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -164,4 +167,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([46.9599, 17.8851], { icon: bikeIcon }).addTo(map);
+L.marker([46.0046, 18.6794], { icon: bikeIcon }).addTo(map);
