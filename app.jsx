@@ -158,6 +158,11 @@ new L.GPX("GPX/23. Balatonfured - Nagykanizsa.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/24. Nagykanizsa - Ferdinandovac.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/25. Ferdinandovac - Pecs.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/26. Pecs - Mohacs.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/26. Pecs - Mohacs.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/27. Mohacs - Bezdan.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/28. Bezdan - Bac.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/29. Bac - Novi Sad.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/30. Novi Sad - Belgrade.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -167,4 +172,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([46.0046, 18.6794], { icon: bikeIcon }).addTo(map);
+L.marker([44.7866, 20.4489], { icon: bikeIcon }).addTo(map);
