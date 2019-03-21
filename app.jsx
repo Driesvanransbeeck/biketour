@@ -166,6 +166,9 @@ new L.GPX("GPX/27. Mohacs - Bezdan.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/28. Bezdan - Bac.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/29. Bac - Novi Sad.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/30. Novi Sad - Belgrade.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/31. Belgrade - Vrsac.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/32. Vrsac - Veliko Gradiste.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/33. Veliko Gradiste - Donji Milanovac.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -175,4 +178,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([44.7866, 20.4489], { icon: bikeIcon }).addTo(map);
+L.marker([44.4647, 22.1521], { icon: bikeIcon }).addTo(map);
