@@ -172,7 +172,8 @@ new L.GPX("GPX/33. Veliko Gradiste - Donji Milanovac.gpx", gpx_options).addTo(ma
 new L.GPX("GPX/34. Donji Milanovac - Kladovo.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/35. Kladovo - Negotin.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/36. Negotin - Belogradchik.gpx", gpx_options).addTo(map);
-
+new L.GPX("GPX/37. Belogradchik - Berkovitsa.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/38. Berkovitsa - Sofia.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -182,4 +183,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([43.6278, 22.6830], { icon: bikeIcon }).addTo(map);
+L.marker([42.6977, 23.3219], { icon: bikeIcon }).addTo(map);
