@@ -20,6 +20,10 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/bye-bye-to-
 var marker = L.marker([44.7866, 20.4489]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/fewer-cycling-paths-more-fascinating-inside-stories-and-stray-dogs-af11f5567bc1" target="_blank"><b>Fewer cycling paths, more fascinating inside stories and stray dogs</b></a><br>18 March in Belgrade: blog post with video').openPopup();
 
+var marker = L.marker([42.6977, 23.3219]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/impressed-by-the-beauty-of-the-balkans-cycling-from-belgrade-to-sofia-239482c65aca" target="_blank"><b>Impressed by the beauty of the Balkans: cycling from Belgrade to Sofia</b></a><br>31 March in Sofia: blog post with video').openPopup();
+
+
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
     Tehran = L.marker([35.6891975, 51.388973599999986]).bindPopup("This is Tehran!"),
@@ -174,6 +178,7 @@ new L.GPX("GPX/35. Kladovo - Negotin.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/36. Negotin - Belogradchik.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/37. Belogradchik - Berkovitsa.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/38. Berkovitsa - Sofia.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/39. Sofia - Plovdiv.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -183,4 +188,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([42.6977, 23.3219], { icon: bikeIcon }).addTo(map);
+L.marker([42.1354, 24.7453], { icon: bikeIcon }).addTo(map);
