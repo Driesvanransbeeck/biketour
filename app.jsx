@@ -179,6 +179,13 @@ new L.GPX("GPX/36. Negotin - Belogradchik.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/37. Belogradchik - Berkovitsa.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/38. Berkovitsa - Sofia.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/39. Sofia - Plovdiv.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/40. Plovdiv - Svilengrad.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/41. Svilengrad - Edirne.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/42. Edirne - Kirklareli.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/43. Kirklareli - Saray.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/44. Saray - Arnavutkoy.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/45. Arnavutkoy - Ortakoy.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/46. Ortakoy - Kadikoy.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -188,4 +195,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([42.1354, 24.7453], { icon: bikeIcon }).addTo(map);
+L.marker([41.0082, 28.9784], { icon: bikeIcon }).addTo(map);
