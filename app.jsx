@@ -191,6 +191,11 @@ new L.GPX("GPX/48. Denizkent - Lapseki.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/49. Lapseki - Canakkale.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/50. Canakkale - Troy.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/51. Troy - Iskele.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/52. Iskele - Ayvalik.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/53. Ayvalik - Bergama.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/54. Bergama - Aliaga.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/55. Aliaga - Izmir.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/56. Izmir - Aksaray.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -200,4 +205,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([39.4926, 26.3344], { icon: bikeIcon }).addTo(map);
+L.marker([38.3686, 34.0297], { icon: bikeIcon }).addTo(map);
