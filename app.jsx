@@ -195,7 +195,10 @@ new L.GPX("GPX/52. Iskele - Ayvalik.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/53. Ayvalik - Bergama.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/54. Bergama - Aliaga.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/55. Aliaga - Izmir.gpx", gpx_options).addTo(map);
-new L.GPX("GPX/56. Izmir - Aksaray.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/57. Aksaray - Belisirma.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/58. Belisirma - White Valley.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/59. White Valley - Swords Valley.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/60. Swords Valley - Nevsehir.gpx", gpx_options).addTo(map);
 
 
 // Icon we"re here
@@ -205,4 +208,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([38.3686, 34.0297], { icon: bikeIcon }).addTo(map);
+L.marker([38.6247, 34.7142], { icon: bikeIcon }).addTo(map);
