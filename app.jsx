@@ -23,6 +23,9 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/fewer-cycli
 var marker = L.marker([42.6977, 23.3219]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/impressed-by-the-beauty-of-the-balkans-cycling-from-belgrade-to-sofia-239482c65aca" target="_blank"><b>Impressed by the beauty of the Balkans: cycling from Belgrade to Sofia</b></a><br>31 March in Sofia: blog post with video').openPopup();
 
+var marker = L.marker([38.4237, 27.1428]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/turkey-the-country-that-made-us-change-our-travel-itinerary-199e32a3b0bd" target="_blank"><b>Turkey: the country that made us change our travel itinerary</b></a><br>1 May in Izmir: blog post').openPopup();
+
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
