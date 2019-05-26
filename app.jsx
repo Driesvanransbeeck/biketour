@@ -142,6 +142,13 @@ var gpx_options = {
     }
 }
 
+new L.GPX("GPX/Europa.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Turkey1.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);
+
+/*
+
 new L.GPX("GPX/1. Brussels-Namur.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/2. Cortil-Wodon - Nassogne.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/3. Nassogne-Vaux.gpx", gpx_options).addTo(map);
@@ -202,7 +209,7 @@ new L.GPX("GPX/57. Aksaray - Belisirma.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/58. Belisirma - White Valley.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/59. White Valley - Swords Valley.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/60. Swords Valley - Nevsehir.gpx", gpx_options).addTo(map);
-
+*/
 
 // Icon we"re here
 
@@ -211,4 +218,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([38.6247, 34.7142], { icon: bikeIcon }).addTo(map);
+L.marker([37.3055, 42.4983], { icon: bikeIcon }).addTo(map);
