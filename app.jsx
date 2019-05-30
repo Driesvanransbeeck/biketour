@@ -26,6 +26,9 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/impressed-b
 var marker = L.marker([38.4237, 27.1428]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/turkey-the-country-that-made-us-change-our-travel-itinerary-199e32a3b0bd" target="_blank"><b>Turkey: the country that made us change our travel itinerary</b></a><br>1 May in Izmir: blog post').openPopup();
 
+var marker = L.marker([37.3055, 42.4983]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/the-end-of-our-2-unforgettable-months-in-turkey-d959fcf43f79" target="_blank"><b>The end of our 2 unforgettable months in Turkey!</b></a><br>29 May in Silopi: blog post with video').openPopup();
+
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
