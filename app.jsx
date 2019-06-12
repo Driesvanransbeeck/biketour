@@ -149,6 +149,7 @@ new L.GPX("GPX/Europa.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey1.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Kurdistan.gpx", gpx_options).addTo(map);
 
 /*
 
@@ -221,4 +222,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([37.3055, 42.4983], { icon: bikeIcon }).addTo(map);
+L.marker([34.3277, 47.0778], { icon: bikeIcon }).addTo(map);
