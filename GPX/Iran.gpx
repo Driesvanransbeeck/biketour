@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="https://www.gpsies.com/GPX/1/0" creator="GPSies https://www.gpsies.com - GPSies Track" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd https://www.gpsies.com/GPX/1/0 https://www.gpsies.com/gpsies.xsd">
+  <metadata>
+    <name>GPSies Track</name>
+    <link href="https://www.gpsies.com/">
+      <text>GPSies Track on GPSies.com</text>
+    </link>
+    <time>2019-07-01T08:51:58Z</time>
+  </metadata>
+  <trk>
+    <name>GPSies Track on GPSies.com</name>
+    <trkseg>
+      <trkpt lat="36.27557412" lon="49.99877929">
+        <ele>1308.0000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="36.35524610" lon="49.50439453">
+        <ele>1464.0000</ele>
+        <time>2010-01-01T02:48:27Z</time>
+      </trkpt>
+      <trkpt lat="36.74357957" lon="49.40551757">
+        <ele>326.00000</ele>
+        <time>2010-01-01T05:32:48Z</time>
+      </trkpt>
+      <trkpt lat="37.24373997" lon="49.58129882">
+        <ele>7.0000000</ele>
+        <time>2010-01-01T09:08:12Z</time>
+      </trkpt>
+      <trkpt lat="37.20874838" lon="50.00976562">
+        <ele>2.0000000</ele>
+        <time>2010-01-01T11:30:25Z</time>
+      </trkpt>
+      <trkpt lat="36.89309432" lon="50.69091796">
+        <ele>-13.00000</ele>
+        <time>2010-01-01T15:51:04Z</time>
+      </trkpt>
+      <trkpt lat="36.66430651" lon="51.35009765">
+        <ele>7.0000000</ele>
+        <time>2010-01-01T19:49:40Z</time>
+      </trkpt>
+      <trkpt lat="36.54965672" lon="51.98730468">
+        <ele>-13.00000</ele>
+        <time>2010-01-01T23:27:01Z</time>
+      </trkpt>
+      <trkpt lat="36.71246724" lon="52.73437500">
+        <ele>-23.00000</ele>
+        <time>2010-01-02T03:44:37Z</time>
+      </trkpt>
+      <trkpt lat="36.54083045" lon="53.06396484">
+        <ele>54.000000</ele>
+        <time>2010-01-02T05:55:22Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
