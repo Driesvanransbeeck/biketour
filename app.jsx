@@ -153,7 +153,7 @@ new L.GPX("GPX/Turkey1.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Kurdistan.gpx", gpx_options).addTo(map);
-new L.GPX("GPX/Iran.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Iran-Dushanbe.gpx", gpx_options).addTo(map);
 
 /*
 
@@ -226,4 +226,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([36.5659, 53.0586], { icon: bikeIcon }).addTo(map);
+L.marker([38.5598, 68.7870], { icon: bikeIcon }).addTo(map);
