@@ -32,6 +32,8 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/the-end-of-
 var marker = L.marker([35.5558, 45.4351]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/exploring-the-unthinkable-iraqi-kurdistan-f98960587747" target="_blank"><b>Exploring the unthinkable: Iraqi Kurdistan</b></a><br>5 June in Sulaymaniyah: blog post').openPopup();
 
+var marker = L.marker([36.2605, 59.6168]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/cycling-through-iran-a-very-intense-yet-extremely-rewarding-experience-b1c43f29591b" target="_blank"><b>Cycling through Iran: a very intense yet extremely rewarding experience</b></a><br>9 July in Mashhad: blog post').openPopup();
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
