@@ -35,6 +35,9 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/exploring-t
 var marker = L.marker([36.2605, 59.6168]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/cycling-through-iran-a-very-intense-yet-extremely-rewarding-experience-b1c43f29591b" target="_blank"><b>Cycling through Iran: a very intense yet extremely rewarding experience</b></a><br>9 July in Mashhad: blog post').openPopup();
 
+var marker = L.marker([39.0041, 63.5688]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/tour-of-turkmenistan-race-against-time-5db84b508a06" target="_blank"><b>Tour of Turkmenistan: race against time</b></a><br>15 July in Turkmenabad: blog post').openPopup();
+
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
     Tehran = L.marker([35.6891975, 51.388973599999986]).bindPopup("This is Tehran!"),
@@ -156,6 +159,8 @@ new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Kurdistan.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Iran-Dushanbe.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Pamir-Highway.gpx", gpx_options).addTo(map);
+
 
 /*
 
@@ -228,4 +233,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([38.5598, 68.7870], { icon: bikeIcon }).addTo(map);
+L.marker([40.5140, 72.8161], { icon: bikeIcon }).addTo(map);
