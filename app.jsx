@@ -41,6 +41,9 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/tour-of-tur
 var marker = L.marker([40.5140, 72.8161]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/one-month-of-nature-in-its-purest-form-in-tajikistan-kyrgyzstan-dbcd5d310e9b" target="_blank"><b>One month of nature in its purest form in Tajikistan & Kyrgyzstan</b></a><br>18 August in Osh: blog post + video').openPopup();
 
+var marker = L.marker([42.8746, 74.5698]).addTo(map);
+marker.bindPopup('<a href="https://velotourfestival.be/" target="_blank"><b>Great news! We are going to organise the first Velo Tour Festival in Belgium next year!</b></a><br>Announcement: 1 September in Bishkek').openPopup();
+
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
@@ -159,12 +162,13 @@ var gpx_options = {
 
 new L.GPX("GPX/Europa.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Turkey1.gpx", gpx_options).addTo(map);
-new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);
-new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);
-new L.GPX("GPX/Kurdistan.gpx", gpx_options).addTo(map);
+/*new L.GPX("GPX/Turkey2.gpx", gpx_options).addTo(map);*/
+/*new L.GPX("GPX/Turkey3.gpx", gpx_options).addTo(map);*/
+/*new L.GPX("GPX/Kurdistan.gpx", gpx_options).addTo(map);*/
+new L.GPX("GPX/Izmir-Qazvin.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Iran-Dushanbe.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Pamir-Highway.gpx", gpx_options).addTo(map);
-
+new L.GPX("GPX/Osh-Dali.gpx", gpx_options).addTo(map);
 
 /*
 
@@ -237,4 +241,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([42.8746, 74.5698], { icon: bikeIcon }).addTo(map);
+L.marker([25.6065, 100.2676], { icon: bikeIcon }).addTo(map);
