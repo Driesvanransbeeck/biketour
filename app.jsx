@@ -44,6 +44,9 @@ marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/one-month-o
 var marker = L.marker([42.8746, 74.5698]).addTo(map);
 marker.bindPopup('<a href="https://velotourfestival.be/" target="_blank"><b>Great news! We are going to organise the first Velo Tour Festival in Belgium next year!</b></a><br>Announcement: 1 September in Bishkek').openPopup();
 
+var marker = L.marker([25.2345, 110.1800]).addTo(map);
+marker.bindPopup('<a><b>First-hand experience of the Great Firewall of China: impossible to publish blog posts</b></a><br>15 October in Guilin: digital detox').openPopup();
+
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
@@ -169,7 +172,7 @@ new L.GPX("GPX/Izmir-Qazvin.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Iran-Dushanbe.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Pamir-Highway.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Osh-Dali.gpx", gpx_options).addTo(map);
-
+new L.GPX("GPX/China-Seoul.gpx", gpx_options).addTo(map);
 /*
 
 new L.GPX("GPX/1. Brussels-Namur.gpx", gpx_options).addTo(map);
@@ -241,4 +244,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([25.6065, 100.2676], { icon: bikeIcon }).addTo(map);
+L.marker([37.5665, 126.9780], { icon: bikeIcon }).addTo(map);
