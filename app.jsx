@@ -47,6 +47,8 @@ marker.bindPopup('<a href="https://velotourfestival.be/" target="_blank"><b>Grea
 var marker = L.marker([25.2345, 110.1800]).addTo(map);
 marker.bindPopup('<a><b>First-hand experience of the Great Firewall of China: impossible to publish blog posts</b></a><br>15 October in Guilin: digital detox').openPopup();
 
+var marker = L.marker([39.9042, 116.4074]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/china-a-country-with-multiple-faces-our-journey-and-impressions-on-the-bicycle-4c38e9a638ab" target="_blank"><b>China, a country with multiple faces: our journey and impressions on the bicycle</b></a><br>29 October in Beijing: blog post').openPopup();
 
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
