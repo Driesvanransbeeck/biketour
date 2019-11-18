@@ -50,6 +50,9 @@ marker.bindPopup('<a><b>First-hand experience of the Great Firewall of China: im
 var marker = L.marker([39.9042, 116.4074]).addTo(map);
 marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/china-a-country-with-multiple-faces-our-journey-and-impressions-on-the-bicycle-4c38e9a638ab" target="_blank"><b>China, a country with multiple faces: our journey and impressions on the bicycle</b></a><br>29 October in Beijing: blog post').openPopup();
 
+var marker = L.marker([35.1796, 129.0756]).addTo(map);
+marker.bindPopup('<a href="https://medium.com/road-to-the-rising-sun/autumn-cycling-in-south-korea-4c754d76fb71" target="_blank"><b>Autumn cycling in South Korea</b></a><br>14 November in Busan: blog post').openPopup();
+
 var Istanbul = L.marker([41.0082376, 28.97835889999999]).bindPopup("This is Istanbul!"),
     Tbilisi = L.marker([41.7151377, 44.82709599999998]).bindPopup("This is Tbilisi!"),
     Tehran = L.marker([35.6891975, 51.388973599999986]).bindPopup("This is Tehran!"),
@@ -175,6 +178,7 @@ new L.GPX("GPX/Iran-Dushanbe.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Pamir-Highway.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Osh-Dali.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/China-Seoul.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Seoul-Nagasaki.gpx", gpx_options).addTo(map);
 /*
 
 new L.GPX("GPX/1. Brussels-Namur.gpx", gpx_options).addTo(map);
@@ -246,4 +250,4 @@ var bikeIcon = L.icon({
     iconSize: [40, 120], // size of the icon
 });
 
-L.marker([37.5665, 126.9780], { icon: bikeIcon }).addTo(map);
+L.marker([32.7503, 129.8779], { icon: bikeIcon }).addTo(map);
