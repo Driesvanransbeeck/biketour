@@ -179,6 +179,7 @@ new L.GPX("GPX/Pamir-Highway.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Osh-Dali.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/China-Seoul.gpx", gpx_options).addTo(map);
 new L.GPX("GPX/Seoul-Nagasaki.gpx", gpx_options).addTo(map);
+new L.GPX("GPX/Nagasaki-Tokyo.gpx", gpx_options).addTo(map);
 /*
 
 new L.GPX("GPX/1. Brussels-Namur.gpx", gpx_options).addTo(map);
@@ -246,8 +247,8 @@ new L.GPX("GPX/60. Swords Valley - Nevsehir.gpx", gpx_options).addTo(map);
 // Icon we"re here
 
 var bikeIcon = L.icon({
-    iconUrl: "https://image.flaticon.com/icons/svg/10/10440.svg",
-    iconSize: [40, 120], // size of the icon
+    iconUrl: "https://image.flaticon.com/icons/png/512/1505/1505465.png",
+    iconSize: [40, 40], // size of the icon
 });
 
-L.marker([32.7503, 129.8779], { icon: bikeIcon }).addTo(map);
+L.marker([35.6762, 139.6503], { icon: bikeIcon }).addTo(map);
