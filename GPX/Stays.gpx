@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 3.5.5" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="39.0345196" lon="63.5748768">
+    <name>"Datly" tiz tagam ("Datly" tiz tagam)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:"Datly" tiz tagam: sustenance:fast_food</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.966911" lon="135.7749009">
+    <name>1000 Torii gates</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:1000 Torii gates: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="33.6728498" lon="133.6664736">
+    <name>12000 km milestone</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.0146821" lon="135.6714749">
+    <name>Arashiyama Park</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Arashiyama Park: entertainment:park</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.648873" lon="66.9690084">
+    <name>Arch of Gur Emir Mausoleum</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Arch of Gur Emir Mausoleum: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.1329315" lon="27.1832657">
+    <name>Archaeological site</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:: tourism:archaeological_site</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.1188905" lon="27.1656489">
+    <name>Asclepion</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Asclepion: tourism:archaeological_site</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.3172672" lon="26.6937304">
+    <name>Ayvalik</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Ayvalik: administrative:town</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5097084" lon="19.0743465">
+    <name>Bajza utca (Erzsebetvaros) 23</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="49.8478972" lon="3.2904911">
+    <name>Basilique Saint-Quentin</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Basilique Saint-Quentin: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.2337424" lon="127.6978382">
+    <name>beautiful island</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.165596" lon="44.5801723">
+    <name>beautiful lake</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="30.1495848" lon="106.166223">
+    <name>Beautiful scenery</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.6854833" lon="139.7356653">
+    <name>Belgium Square</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Belgium Square: man_made:square</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6231079" lon="22.6780777">
+    <name>Belogradchik Fortress</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Belogradchik Fortress: tourism:city_wall</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1915335" lon="16.3808942">
+    <name>Belvederegarten</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.0031617" lon="135.6974076">
+    <name>Best ramen restaurant</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.6607759" lon="66.9801235">
+    <name>Bibi Khanym</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Bibi Khanym: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="33.5958185" lon="130.4052901">
+    <name>Bicycle parking</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:: transportation:bicycle_parking</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2093171" lon="16.3548446">
+    <name>Cafe Eiles - Typical Viennese Cafe</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Cafe Eiles: sustenance:cafe</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2076149" lon="16.3804016">
+    <name>Cafe Pruckel</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Cafe Pruckel: sustenance:cafe</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6999579" lon="23.3217001">
+    <name>Central Market Hall</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Central Market Hall: shop:marketplace</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4643887" lon="4.039278">
+    <name>Chateau d'Havre</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Chateau d'Havre: tourism:historic_ruins</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.4698549" lon="43.8879991">
+    <name>Dara Shakran refugee camp</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.0642524" lon="134.5474027">
+    <name>Delicious cream cake</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7247526" lon="139.763153">
+    <name>delicious kind of waffle</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.0417487" lon="102.71631">
+    <name>Dongfeng Square</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.262953" lon="110.300503">
+    <name>Dumplings</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.395388" lon="15.5203128">
+    <name>Durnstein</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Durnstein: administrative:village</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.7588283" lon="43.8951874">
+    <name>dwndwrm</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:dwndwrm: shop:ice_cream</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2879924" lon="59.6156573">
+    <name>Emam Reza holy shrine</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Emam Reza holy shrine: tourism:monument</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.108621" lon="29.0525293">
+    <name>Emirgan Korusu</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Emirgan Korusu: entertainment:park</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.5599053" lon="126.9768718">
+    <name>Fish restaurant</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1442833" lon="17.111227">
+    <name>Galeria Nedbalka</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Galeria Nedbalka: entertainment:gallery</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7768787" lon="51.4230752">
+    <name>Gasht Restaurant</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Gasht Restaurant: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2093243" lon="16.3545227">
+    <name>Gastwirtschaft zur Stadt Paris</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Gastwirtschaft zur Stadt Paris: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.5785452" lon="126.9769335">
+    <name>Geunjeongjeon Hall</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Geunjeongjeon Hall: man_made:building</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.0234774" lon="135.6668186">
+    <name>Giō-ji Temple</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Giō-ji Temple: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.6824875" lon="135.8321929">
+    <name>Gojū-no-tō (Five-storied pagoda)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Gojū-no-tō (Five-storied pagoda): tourism:monument</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0313773" lon="28.9822909">
+    <name>good coffee place</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.3675466" lon="26.7653271">
+    <name>Great sight on sea</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="23.11894" lon="113.3205628">
+    <name>Guangzhou Library</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Guangzhou Library: education:library</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0086374" lon="28.979938">
+    <name>Hagia Sophia</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Hagia Sophia: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="40.8487484" lon="29.1188335">
+    <name>Hagios Giorgios Church</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Hagios Giorgios Church: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="32.9643868" lon="131.4511156">
+    <name>Harajiri Water Falls</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Harajiri Water Falls: natural:waterfall</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="38.6484557" lon="34.8514797">
+    <name>hike</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.2755449" lon="136.2535143">
+    <name>Hikone Castle Museum</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Hikone Castle Museum: tourism:museum</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="40.8821443" lon="29.0948439">
+    <name>Holy Trinity Monastery of Halki</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Holy Trinity Monastery of Halki: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="23.1151312" lon="102.7759409">
+    <name>Honghe Hani Rice Terraces (1)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.6144556" lon="135.7342386">
+    <name>Hōryūji Temple</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Hōryūji Temple: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.2450899" lon="46.2770316">
+    <name>incredible view</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.0848211" lon="68.3880043">
+    <name>Iskander</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Iskander: natural:waterfall</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7020736" lon="139.7678089">
+    <name>Kanda Shrine</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Kanda Shrine: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0999546" lon="29.0654254">
+    <name>Kanlica Yogurtcusu</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Kanlica Yogurtcusu: sustenance:cafe</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.1489758" lon="24.7491717">
+    <name>Kapana</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Kapana: administrative:suburb</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.0623915" lon="37.377838">
+    <name>Karanfil café</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="33.4535452" lon="129.9781752">
+    <name>Karatsu Castle</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Karatsu Castle: tourism:castle</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1982909" lon="16.371839">
+    <name>Karlskirche</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Karlskirche: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0154443" lon="28.9584736">
+    <name>Katip Celebi Caddesi (Molla Husrev), Fatih</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="38.4599234" lon="34.752481">
+    <name>Kaymaklı Underground City</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Kaymaklı Underground City: natural:cave_entrance</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="40.9583077" lon="29.0717692">
+    <name>Kazim Ozalp Sokak, Saskinbakkal</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2939766" lon="59.5905304">
+    <name>khfh khtb aftb</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:khfh khtb aftb: shop:books</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5106717" lon="19.0378261">
+    <name>Király Thermal Bath</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Király Thermal Bath: entertainment:water_park</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.4588181" lon="135.3707671">
+    <name>Kishiwada Castle</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Kishiwada Castle: tourism:castle</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.9459276" lon="110.3752998">
+    <name>km 10000 on the bike</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2006226" lon="16.3776112">
+    <name>Konzerthaus</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Konzerthaus: man_made:building</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.6580808" lon="135.4980969">
+    <name>Kyra Sushi conveyor belt</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Muten Kurazushi Namba Motomachi: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.5440908" lon="46.1269355">
+    <name>Lake Zarivar</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.556763" lon="22.0263648">
+    <name>Liepienski Vir</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Liepienski Vir: tourism:museum</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.3132466" lon="40.7403946">
+    <name>Marangozlar Kahvesi</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Marangozlar Kahvesi: sustenance:cafe</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.1632511" lon="27.149">
+    <name>Marriage Pergamon cycling community</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.6789647" lon="51.4225602">
+    <name>Marvi Falafel</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Marvi Falafel: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6612924" lon="17.1380281">
+    <name>Millenniumi Emlekmu</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Millenniumi Emlekmu: tourism:memorial</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.775693" lon="64.4150519">
+    <name>Minorai kalon</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Minorai kalon: tourism:viewpoint</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.6622935" lon="26.5518152">
+    <name>My Position</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.6848183" lon="135.8397827">
+    <name>Nara park</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Nara park: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.1465969" lon="42.6767759">
+    <name>Near jsr khny, Zakho</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.7585648" lon="43.893716">
+    <name>Near Kanizark, Qasbat Aqrah</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2969971" lon="59.4834981">
+    <name>Near Namaz Boulevard (سرافرازان), District 9</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="26.5328619" lon="99.9010083">
+    <name>Near Ximen Street, Jianchuan</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.3605995" lon="138.7274017">
+    <name>Near Yoshida &amp; Subashiri Trail [Descent] (Bulldozer way), Fujiyoshida</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.151036" lon="24.7521973">
+    <name>Nebet Tepe Hill</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Nebet Tepe Hill: tourism:archaeological_site</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.1466006" lon="38.7863946">
+    <name>New Dergah Mosque</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:New Dergah Mosque: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0165694" lon="28.969843">
+    <name>Nice square with terrace</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8783385" lon="74.6065021">
+    <name>Oak Park</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1445633" lon="17.111249">
+    <name>Old Market Hall</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Old Market Hall: shop:marketplace</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.1498826" lon="24.7526693">
+    <name>Old Plovdiv</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Old Plovdiv: administrative:suburb</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.6585975" lon="135.4981459">
+    <name>Pachinko full of people and noise</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2659958" lon="50.0030849">
+    <name>Peyghambariyeh (طالقانی), Qazvin</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.8134526" lon="20.4572511">
+    <name>Pijatsa Zielieni vienats</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Pijatsa Zielieni vienats: shop:marketplace</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7543313" lon="51.4202213">
+    <name>pl Tby`t</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:pl Tby`t: administrative:locality</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.8171971" lon="20.4552341">
+    <name>Prolietshie</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Prolietshie: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.8193965" lon="20.450213">
+    <name>Radost fina kukhinjitsa</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Radost fina kukhinjitsa: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.121937" lon="27.1833301">
+    <name>Red Basilica</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Red Basilica: tourism:archaeological_site</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.7979248" lon="87.6012254">
+    <name>Renmin Park</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2686503" lon="50.0082328">
+    <name>Restaurant (1)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.9999335" lon="71.2798762">
+    <name>Restaurant (2)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.3435856" lon="110.3041393">
+    <name>Restaurant (3)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.0433785" lon="102.6995117">
+    <name>Restaurant buffet</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="40.9894549" lon="29.0242696">
+    <name>Restaurant Ciya Kebap (Ciya Kebap)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Ciya Kebap: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.1470031" lon="24.7510815">
+    <name>Roman amphitheatre</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Roman amphitheatre: entertainment:theatre</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.5737513" lon="27.769382">
+    <name>Roman Amphitheatre</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Roman Amphitheatre: tourism:historic_ruins</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0176477" lon="28.9686942">
+    <name>Rustem Pasa Camii</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Rustem Pasa Camii: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.1302062" lon="36.14429">
+    <name>Selale waterfalls</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Selale waterfalls: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="38.3016912" lon="34.2594051">
+    <name>Selime Katedrali</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Selime Katedrali: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.6780485" lon="26.5589976">
+    <name>Selimiye Camii</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Selimiye Camii: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="26.319556" lon="99.8519683">
+    <name>Shaxi</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Shaxi: administrative:town</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0162473" lon="28.9637804">
+    <name>Süleymaniye Mosque</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Süleymaniye Mosque: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.3160968" lon="26.6926575">
+    <name>Tamam Meyhane</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Tamam Meyhane: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.6727942" lon="51.4263368">
+    <name>Tehran Bazaar</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Tehran Bazaar: administrative:neighbourhood</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7266738" lon="139.7712207">
+    <name>Tennoji Temple</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Tennoji Temple: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.0052612" lon="28.9768696">
+    <name>The Blue Mosque</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:The Blue Mosque: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4968792" lon="19.0768576">
+    <name>Theater Erkel Theatre (Erkel Theatre)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Erkel Theatre: entertainment:theatre</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="27.1918537" lon="100.1136875">
+    <name>Tiger Leaping Gorge (1)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Tiger Leaping Gorge: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="36.1204741" lon="35.9258957">
+    <name>Titus Tunnel, Samandag</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8732109" lon="74.5771637">
+    <name>Toktogul Street 236, Bishkek</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.6604344" lon="139.7290349">
+    <name>Tokyo City View - Mori Tower</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Tokyo City View - Mori Tower: tourism:viewpoint</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1490087" lon="17.1126652">
+    <name>U majora Zemana</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:U majora Zemana: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="38.6354779" lon="34.8903465">
+    <name>Uc Guzeller</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Uc Guzeller: tourism:viewpoint</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="33.2195179" lon="132.5652194">
+    <name>Uwajima castle</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:宇和島城天守: man_made:building</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="40.8752247" lon="29.0862823">
+    <name>Vaftizci Yahya Manastiri</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Vaftizci Yahya Manastiri: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="25.0418593" lon="102.7073247">
+    <name>Very nice authentic street</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="37.9145108" lon="40.2436709">
+    <name>Viewpoint (1)</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:: tourism:viewpoint</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2587762" lon="76.9531775">
+    <name>Vozniesienskii Kafiedral'nyi Sobor</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Vozniesienskii Kafiedral'nyi Sobor: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.5432473" lon="135.5270814">
+    <name>Yakitori - ya</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7134164" lon="139.7622728">
+    <name>Yasuda Auditorium</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Yasuda Auditorium: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.7390088" lon="27.2226191">
+    <name>Yayla Parki</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:Yayla Parki: entertainment:park</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="39.438005" lon="68.4564928">
+    <name>РБ12</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.2718923" lon="136.2551451">
+    <name>ポムダムール</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:ポムダムール: sustenance:cafe</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="33.0548604" lon="132.8170466">
+    <name>勝間沉下橋</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:勝間沉下橋: tourism:attraction</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="34.3604781" lon="135.2402401">
+    <name>広島焼き・むげん</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:広島焼き・むげん: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.7122665" lon="139.7712636">
+    <name>琵琶絵馬掛</name>
+    <type>Highlights Road to the Rising Sun</type>
+    <cmt>Amenity:琵琶絵馬掛: tourism:place_of_worship</cmt>
+    <extensions>
+      <color>#b41010a0</color>
+    </extensions>
+  </wpt>
+</gpx>
