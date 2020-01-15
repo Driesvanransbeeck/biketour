@@ -28,11 +28,89 @@ var posts = L.layerGroup([Brussels, Munich, Bratislava, Belgrade, Sofia, Izmir, 
 
 map.addLayer(posts);
 
-var overlayMaps = {
-    "Our blog posts": posts
+// Recommendations locals
+
+var geojsonMarkerOptions = {
+    radius: 5,
+    fillColor: "#ff0000",
+    color: "#000",
+    weight: 0.3,
+    opacity: 0.7,
+    fillOpacity: 0.7
 };
 
-L.control.layers(null, overlayMaps, { collapsed: false }).addTo(map);
+function popup(feature, layer) {
+    if (feature.properties && feature.properties.name) {
+        layer.bindPopup(feature.properties.name);
+    }
+}
+
+var recommensLayer = L.geoJson(recommendations, {
+    onEachFeature: popup,
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions)
+}}).addTo(map);
+
+
+// Highlights
+
+var geojsonhighlights = {
+    radius: 5,
+    fillColor: "#000",
+    color: "#000",
+    weight: 0.3,
+    opacity: 0.7,
+    fillOpacity: 0.7
+};
+
+function popup(feature, layer) {
+    if (feature.properties && feature.properties.name) {
+        layer.bindPopup(feature.properties.name);
+    }
+}
+
+var highlightsLayer = L.geoJson(highlights, {
+    onEachFeature: popup,
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonhighlights)
+}}).addTo(map);
+
+// Stays
+
+/*
+
+var geojsonstays = {
+    radius: 8,
+    fillColor: "#00ff00",
+    color: "#000",
+    weight: 0.3,
+    opacity: 0.7,
+    fillOpacity: 0.7
+};
+
+function popup(feature, layer) {
+    if (feature.properties && feature.properties.name) {
+        layer.bindPopup(feature.properties.name);
+    }
+}
+
+var staysLayer = L.geoJson(stays, {
+    onEachFeature: popup,
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonstays)
+}}).addTo(map);
+
+*/
+
+// Layers control
+
+var overlayMaps = {
+    "Our blog posts": posts,
+    "Recommendations received from locals 🔴": recommensLayer,
+    "Our highlights ⚫️": highlightsLayer
+};
+
+L.control.layers(null, overlayMaps, {collapsed: false}).addTo(map);
 
 /*
 // Itinerary
